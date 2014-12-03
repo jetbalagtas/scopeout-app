@@ -1,0 +1,1 @@
+# This is the ScopeOut app for iOS. This is optimized for iPhone 6 and 6 Plus. Compatible with iPhone 4, 4S, 5, 5S, 6, 6 Plus, and iPad.
